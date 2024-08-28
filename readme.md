@@ -37,8 +37,8 @@ This repository contains the back-end part of a file-sharing web application. Th
 
 ### Download Page
 
-![Download Page](Screenshots/download_page.png)
+![Download Page](Screenshots/DownloadSs.png)
 
 ### Email Sent to Recipient
 
-![Email Screenshot](Screenshots/email_screenshot.png)
+![Email Screenshot](Screenshots/EamilSs.png)
