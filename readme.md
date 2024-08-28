@@ -26,7 +26,7 @@ This repository contains the back-end part of a file-sharing web application. Th
 
 ### Email Sent to Recipient
 
-![Email Screenshot](Screenshots/EamilSs.png)
+![Email Screenshot](Screenshots/EamilSs.jpg)
 
 ## Project Structure
 
