@@ -36,3 +36,6 @@ app.use('/files/download', require('./routes/download'));
 
 
 app.listen(PORT, console.log(`Listening on port ${PORT}.`));
+
+//http://localhost:3000/files/cd501468-c787-465d-a6f7-41e06a951691
+//c89a0b57-d2a2-407c-a17a-edd627367a7f
