@@ -32,3 +32,13 @@ This repository contains the back-end part of a file-sharing web application. Th
 ├── public             # Static files (CSS, JS, etc.)
 ├── server.js          # Main server file
 └── .env               # Environment variables (not included)
+
+## Screenshots
+
+### Download Page
+
+![Download Page](Screenshots/download_page.png)
+
+### Email Sent to Recipient
+
+![Email Screenshot](Screenshots/email_screenshot.png)
