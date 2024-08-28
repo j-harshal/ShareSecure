@@ -18,6 +18,16 @@ This repository contains the back-end part of a file-sharing web application. Th
 - **Nodemailer**: Library used to send emails via SMTP.
 - **Mongoose**: MongoDB object modeling tool for managing database interactions.
 
+## Screenshots
+
+### Download Page
+
+![Download Page](Screenshots/DownloadSs.png)
+
+### Email Sent to Recipient
+
+![Email Screenshot](Screenshots/EamilSs.png)
+
 ## Project Structure
 
 ```plaintext
@@ -33,12 +43,3 @@ This repository contains the back-end part of a file-sharing web application. Th
 ├── server.js          # Main server file
 └── .env               # Environment variables (not included)
 
-## Screenshots
-
-### Download Page
-
-![Download Page](Screenshots/DownloadSs.png)
-
-### Email Sent to Recipient
-
-![Email Screenshot](Screenshots/EamilSs.png)
